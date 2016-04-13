@@ -94,7 +94,6 @@ bower {
     source 'angular.js'
     source 'angular-csp.css'
   }
-
 }
 
 task wrapper(type: Wrapper) {
